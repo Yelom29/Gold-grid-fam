@@ -44,7 +44,7 @@ Provide a link here to the live demo of the portal if available.
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/BensonGathu/azubi-frontend.git
+   git clone https://github.com/Yelom29/Gold-grid-fam.git
    ```
 
 2. Navigate to the project directory:
